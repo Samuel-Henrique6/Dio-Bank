@@ -3,7 +3,7 @@ import { CompanyAccount } from "./class/CompanyAccount";
 import { PeopleAccount } from "./class/PeopleAccount";
 
 const peopleAccount: PeopleAccount = new PeopleAccount(
-  17140897,
+  140897,
   "Vinicius",
   46743,
   5000
